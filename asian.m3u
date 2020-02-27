@@ -53,3 +53,33 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_e
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/BNC.m3u8
 #EXTINF:-1,eGG Network
 http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:-1,HITS
+https://anevia115.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
+#EXTINF:-1,KIX
+https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+#EXTINF:-1,K+
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:-1,TVIKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1,妙米
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1,Sony One
+http://210.210.155.66/h/h143/01.m3u8
+#EXTINF:-1,Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:-1,Thrill
+https://anevia115.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
+#EXTINF:-1,மக்கள் தொலைக்காட்சி
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
+#EXTINF:-1,TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
